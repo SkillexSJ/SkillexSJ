@@ -10,24 +10,37 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/3o6gE5aYjdWyWseQNO/giphy.gif" width="30" alt="coder gif"/> **About Me**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="500" alt="Coding GIF" style="border-radius: 10px;" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
+## **About Me**
 
 - 🌱 Currently mastering **Competitive Programming with C++**.  
 - 💻 Passionate about **MERN Stack Web Development**: React, Next.js, Node.js, MongoDB.  
 - 🎯 Goal: Become a Full Stack Developer and Competitive Programming Expert.  
 - ⚡ Fun fact: *Coffee fuels my debugging sessions!*  
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
 
 ---
 
 ## **Competitive Programming Profiles**
 
-<p align="center" style="margin-top: 10px; margin-bottom: 30px;">
+<p align="center">
   <a href="https://codeforces.com/profile/SkillexSJ" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Codeforces_logo.png" alt="Codeforces" width="50" />
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="50" />
   </a>
   <a href="https://www.codechef.com/users/sajid7271" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/CodeChef_logo.svg" alt="CodeChef" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef" width="70" />
   </a>
   <a href="https://leetcode.com/u/SkillexSJ/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="50" />
@@ -40,11 +53,23 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
 ---
 
 ### **LeetCode Stats**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/SkillexSJ/)
+<p align="center">
+  <a href="https://leetcode.com/SkillexSJ/">
+    <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="100%" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
 
 ---
 
@@ -53,6 +78,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
 
 ---
 
@@ -67,6 +96,10 @@
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SkillexSJ&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
 ---
 
 ## **Contribution Snake**
@@ -76,10 +109,11 @@
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
 ---
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ## **Connect With Me**
 
@@ -92,14 +126,27 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
 ---
 
 ## 🏆 **GitHub Trophies**
 
 ![](https://github-profile-trophy.vercel.app/?username=SkillexSJ&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+</div>
+
 ---
 
-## ✍️ **Random Dev Quote**
+<div align="center">
+
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div> 
+
