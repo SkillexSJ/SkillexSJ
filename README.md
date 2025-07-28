@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SkillexSJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -70,12 +70,12 @@
 ## **GitHub Stats & Streak**
 
 <p align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=react&border_radius=10" alt="Streak Stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SkillexSJ&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=SkillexSJ&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SkillexSJ&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
@@ -95,13 +95,16 @@
   <a href="https://www.facebook.com/SkillexSJ7" title="Facebook" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/SkillexSJ" title="Discord" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🏆 **GitHub Trophies**
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SkillexSJ&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
