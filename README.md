@@ -37,19 +37,19 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/SkillexSJ" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="50" />
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="70" />
   </a>
   <a href="https://www.codechef.com/users/sajid7271" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef" width="70" />
   </a>
   <a href="https://leetcode.com/u/SkillexSJ/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="50" />
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="70" />
   </a>
   <a href="https://atcoder.jp/users/Skillex" target="_blank">
     <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="50" />
   </a>
   <a href="https://www.hackerrank.com/profile/sajid7271_sk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" />
   </a>
 </p>
 
