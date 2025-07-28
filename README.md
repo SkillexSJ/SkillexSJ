@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/112233445566778899/your_custom_banner.gif" alt="Sajid Coder Banner" width="900"/>
-</p>
+![Header](./github-header-image.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajid!;+Competitive+Programmer+%7C+Web+Developer;" />
@@ -19,28 +17,35 @@
 - 🎯 Goal: Become a Full Stack Developer and Competitive Programming Expert.  
 - ⚡ Fun fact: *Coffee fuels my debugging sessions!*  
 
-<img align="right" alt="Cool coder gif" width="400" src="https://media.giphy.com/media/3o6gE5aYjdWyWseQNO/giphy.gif" />
 
 ---
 
 ## **Competitive Programming Profiles**
 
 <p align="center" style="margin-top: 10px; margin-bottom: 30px;">
-  <a href="https://codeforces.com/profile/SkillexSJ" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://codeforces.com/profile/SkillexSJ" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Codeforces_logo.png" alt="Codeforces" width="50" />
   </a>
-  <a href="https://www.codechef.com/users/sajid7271" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://www.codechef.com/users/sajid7271" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/CodeChef_logo.svg" alt="CodeChef" width="50" />
   </a>
-  <a href="https://leetcode.com/u/SkillexSJ/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://leetcode.com/u/SkillexSJ/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="50" />
   </a>
-  <a href="https://atcoder.jp/users/Skillex" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://atcoder.jp/users/Skillex" target="_blank">
     <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="50" />
   </a>
-  <a href="https://www.hackerrank.com/profile/sajid7271_sk" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="https://www.hackerrank.com/profile/sajid7271_sk" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50" />
   </a>
+</p>
+
+---
+
+### **LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -50,20 +55,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
 </p>
-
----
-
-## **Skills**
-
-**Languages & Tools:**  
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
 
@@ -89,13 +80,16 @@
 
 ---
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 ## **Connect With Me**
 
 <p align="center">
-  <a href="https://www.facebook.com/SkillexSJ7" title="Facebook" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/SkillexSJ7" title="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/SkillexSJ" title="Discord" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/SkillexSJ" title="Discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
