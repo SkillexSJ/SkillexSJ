@@ -44,9 +44,7 @@
 
 ### **LeetCode Stats**
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" />
-</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/SkillexSJ/)
 
 ---
 
