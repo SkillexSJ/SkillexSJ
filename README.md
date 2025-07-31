@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajid!;+Competitive+Programmer+%7C+Web+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=1000&height=100&duration=8000&pause=2000&lines=Hi+There!+👋;I'm+Sajid!;Competitive+Programmer+%26+Web+Developer;Passionate+About+Building+MERN+Stack+Apps;Always+Exploring+New+Tech+%F0%9F%92%A1" />
 </h1>
 
 <p align="center">
