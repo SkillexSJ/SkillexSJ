@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/SkillexSJ/">
-    <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="100%" />
+    <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="50%" />
   </a>
 </p>
 
