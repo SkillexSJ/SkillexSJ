@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./sajid-github.jpg)
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=1000&height=100&duration=8000&pause=2000&lines=Hi+There!+👋;I'm+Sajid!;Competitive+Programmer+%26+Web+Developer;Passionate+About+Building+MERN+Stack+Apps;Always+Exploring+New+Tech+%F0%9F%92%A1" />
@@ -100,18 +100,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
 </div>
 
----
-
-## **Contribution Snake**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
 
 ---
 
@@ -130,23 +118,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
 </div>
 
----
-
-## 🏆 **GitHub Trophies**
-
-![](https://github-profile-trophy.vercel.app/?username=SkillexSJ&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
-
----
-
-<div align="center">
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div> 
 
