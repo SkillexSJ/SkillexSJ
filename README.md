@@ -1,24 +1,7 @@
 ![Header](./sajid-github.jpg)
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=1000&height=100&duration=8000&pause=2000&lines=Hi+There!+👋;I'm+Sajid!;Competitive+Programmer+%26+Web+Developer;Passionate+About+Building+MERN+Stack+Apps;Always+Exploring+New+Tech+%F0%9F%92%A1" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SkillexSJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="500" alt="Coding GIF" style="border-radius: 10px;" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
 
 ## **About Me**
 
