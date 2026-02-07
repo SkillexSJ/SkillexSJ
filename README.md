@@ -1,88 +1,64 @@
-![Header](./sajid-github.jpg)
-
-
----
-
-## **About Me**
-
-- 🌱 Currently mastering **Competitive Programming with C++**.  
-- 💻 Passionate about **MERN Stack Web Development**: React, Next.js, Node.js, MongoDB.  
-- 🎯 Goal: Become a Full Stack Developer and Competitive Programming Expert.  
-- ⚡ Fun fact: *Coffee fuels my debugging sessions!*  
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
+  <img src="./sajid-github.jpg" width="100%" alt="Banner" />
 </div>
 
----
+<br/>
 
+<table align="center" width="100%">
+<tr>
 
-## **My Favorite Tech Stack**
+<!-- LEFT -->
+<td width="40%" valign="top">
+
+### 👨‍💻 About Me
+
+- **Focus:** Competitive Programming (C++)
+- **Development:** MERN Stack
+- **Goal:** Full Stack Developer & CP Expert
+- **Fun Fact:** Coffee fuels my debugging ☕
+
+### 📫 Connect
+
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />](https://www.facebook.com/SkillexSJ7)
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />](https://discord.com/users/SkillexSJ)
+
+</td>
+
+<!-- RIGHT -->
+<td width="60%" valign="top">
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
+  <img src="https://iconic-api.onrender.com/dark/c" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/cpp" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/go" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/js" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/react" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/nextjs" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/git" width="38"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
-
----
-
-## **Competitive Programming Profiles**
+### 🏆 Competitive Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/SkillexSJ" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces" width="70" />
-  </a>
-  <a href="https://www.codechef.com/users/sajid7271" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef" width="70" />
-  </a>
-  <a href="https://leetcode.com/u/SkillexSJ/" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode" width="70" />
-  </a>
-  <a href="https://atcoder.jp/users/Skillex" target="_blank">
-    <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sajid7271_sk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" />
-  </a>
+
+[<img src="https://iconic-api.onrender.com/dark/codeforces" width="38"/>](https://codeforces.com/profile/SkillexSJ)
+[<img src="https://iconic-api.onrender.com/dark/codechef" width="38"/>](https://www.codechef.com/users/sajid7271)
+[<img src="https://iconic-api.onrender.com/dark/leetcode" width="38"/>](https://leetcode.com/u/SkillexSJ/)
+[<img src="https://iconic-api.onrender.com/dark/hackerrank" width="38"/>](https://www.hackerrank.com/profile/sajid7271_sk)
+
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
-
----
-
-### **LeetCode Stats**
 
 <p align="center">
-  <a href="https://leetcode.com/SkillexSJ/">
-    <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&font=Playfair%20Display&ext=heatmap" alt="LeetCode Stats" width="50%" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/SkillexSJ?theme=dark&ext=heatmap" width="100%"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
-
-
----
-
-## **Connect With Me**
-
-<p align="center">
-  <a href="https://www.facebook.com/SkillexSJ7" title="Facebook" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/SkillexSJ" title="Discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216784318-7f2e9d4d-c68a-4f40-874e-0f1bcdce6b82.gif" width="100%" height="5" />
-</div>
-
-
+</td>
+</tr>
+</table>
