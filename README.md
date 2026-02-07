@@ -36,6 +36,7 @@
   <img src="https://iconic-api.onrender.com/dark/html" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/css" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/js" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/react" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/nextjs" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/nodejs" width="38"/>
