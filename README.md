@@ -25,7 +25,7 @@
 </td>
 
 <!-- RIGHT -->
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
 
@@ -42,6 +42,7 @@
   <img src="https://iconic-api.onrender.com/dark/mongodb" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/postgresql" width="38"/>
   <img src="https://iconic-api.onrender.com/dark/git" width="38"/>
+  <img src="https://iconic-api.onrender.com/dark/docker" width="38"/>
 </p>
 
 ### 🏆 Competitive Profiles
